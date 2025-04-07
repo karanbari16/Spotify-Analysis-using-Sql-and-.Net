@@ -1,0 +1,26 @@
+F:\VS Studio\Spotify Analysis\obj\Debug\Spotify Analysis.csproj.AssemblyReference.cache
+F:\VS Studio\Spotify Analysis\obj\Debug\Spotify_Analysis.Properties.Resources.resources
+F:\VS Studio\Spotify Analysis\obj\Debug\Spotify Analysis.csproj.GenerateResource.cache
+F:\VS Studio\Spotify Analysis\obj\Debug\Spotify Analysis.csproj.CoreCompileInputs.cache
+F:\VS Studio\Spotify Analysis\bin\Debug\Spotify Analysis.exe.config
+F:\VS Studio\Spotify Analysis\bin\Debug\Spotify Analysis.exe
+F:\VS Studio\Spotify Analysis\bin\Debug\Spotify Analysis.pdb
+F:\VS Studio\Spotify Analysis\obj\Debug\Spotify Analysis.exe
+F:\VS Studio\Spotify Analysis\obj\Debug\Spotify Analysis.pdb
+F:\VS Studio\Spotify Analysis\obj\Debug\Spotify_Analysis.Dashboard.resources
+F:\VS Studio\Spotify Analysis\obj\Debug\Spotify_Analysis.Login.resources
+F:\VS Studio\Spotify Analysis\obj\Debug\Spotify_Analysis.Form1.resources
+F:\VS Studio\Spotify Analysis\obj\Debug\Spotify_Analysis.SignUp.resources
+C:\Users\karan\Downloads\Spotify Analysis2\Spotify Analysis\obj\Debug\Spotify Analysis.csproj.AssemblyReference.cache
+C:\Users\karan\Downloads\Spotify Analysis2\Spotify Analysis\obj\Debug\Spotify Analysis.exe
+C:\Users\karan\Downloads\Spotify Analysis2\Spotify Analysis\obj\Debug\Spotify Analysis.pdb
+C:\Users\karan\Downloads\Spotify Analysis2\Spotify Analysis\bin\Debug\Spotify Analysis.exe.config
+C:\Users\karan\Downloads\Spotify Analysis2\Spotify Analysis\bin\Debug\Spotify Analysis.exe
+C:\Users\karan\Downloads\Spotify Analysis2\Spotify Analysis\bin\Debug\Spotify Analysis.pdb
+C:\Users\karan\Downloads\Spotify Analysis2\Spotify Analysis\obj\Debug\Spotify_Analysis.Dashboard.resources
+C:\Users\karan\Downloads\Spotify Analysis2\Spotify Analysis\obj\Debug\Spotify_Analysis.Form1.resources
+C:\Users\karan\Downloads\Spotify Analysis2\Spotify Analysis\obj\Debug\Spotify_Analysis.Login.resources
+C:\Users\karan\Downloads\Spotify Analysis2\Spotify Analysis\obj\Debug\Spotify_Analysis.Properties.Resources.resources
+C:\Users\karan\Downloads\Spotify Analysis2\Spotify Analysis\obj\Debug\Spotify_Analysis.SignUp.resources
+C:\Users\karan\Downloads\Spotify Analysis2\Spotify Analysis\obj\Debug\Spotify Analysis.csproj.GenerateResource.cache
+C:\Users\karan\Downloads\Spotify Analysis2\Spotify Analysis\obj\Debug\Spotify Analysis.csproj.CoreCompileInputs.cache
